@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-
+	fmt.Println(marsExploration("hello"))
 }
 
 func marsExploration(s string) int32 {
